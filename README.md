@@ -1,5 +1,5 @@
 # #4 Entity Framework & Strongly typed views
-## Agenda Day 4 - Entity Framework & Strongly typed views
+## Agenda Day 4 - Entity Framework & Strongly typed views.
 
 ## Your own project
 You should all show me your own project, which is useing the frameworks we used so far.    
